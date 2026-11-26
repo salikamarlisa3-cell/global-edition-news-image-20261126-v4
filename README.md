@@ -1,6 +1,10 @@
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/salikamarlisa3-cell/global-edition-news-image-20261126-v4/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/salikamarlisa3-cell/global-edition-news-image-20261126-v4/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+
 # The World in One Day — Thursday 26 November 2026 (v4)
 
-Entry for **news-image-20261126**. One page sums up the day: **36 verified
+Entry for **[news-image-20261126](https://make.fun/bounty/news-image-20261126)** on make.fun. One page sums up the day: **36 verified
 stories** (every one cited in [SOURCES.md](SOURCES.md)), 13 of them drawn
 as flat scene panels and pinned on a schematic dot-matrix world map, a
 UTC timeline, a by-the-numbers band of the day's own figures, a status
